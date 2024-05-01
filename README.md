@@ -1,4 +1,4 @@
 # Информация о себе
 Меня зовут Сергей, мне 36 лет,\
 я учусь в Нетологии\
-![](images/CXJPpEcS0Fw.jpg)
+![photo](images/CXJPpEcS0Fw.jpg)
